@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/task/static/css/main.69e43ee3.css",
+    "main.js": "/task/static/js/main.47c9c639.js",
+    "index.html": "/task/index.html",
+    "static/media/cross.svg": "/task/static/media/cross.359021e54952399ba141cb48fb1ca831.svg",
+    "main.69e43ee3.css.map": "/task/static/css/main.69e43ee3.css.map",
+    "main.47c9c639.js.map": "/task/static/js/main.47c9c639.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69e43ee3.css",
+    "static/js/main.47c9c639.js"
+  ]
+}
